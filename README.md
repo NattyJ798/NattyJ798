@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @NattyJ798
-- 👀 I’m interested in Analytics, Machine Learning, Cycling, Running, Nutrition, and Soccer :)
+
 
 
 <!---
